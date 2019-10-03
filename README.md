@@ -2,7 +2,7 @@
 
 创建基于Spring Boot+Elasticsearch v7.3+Maven的订单中心微服务项目，对外提供针对订单索引的CRUD服务，并且订单索引会按照月份划分索引。
 
-![](C:\Users\Rickie\AppData\Local\Microsoft\Windows\INetCache\IE\IA6Y27QD\elasticsearch-order[1].png)
+![](https://raw.githubusercontent.com/rickiechina/elasticsearch-order/master/images/elasticsearch-order.png)
 
 订单中心演示项目，搭建订单中心Elasticsearch相关微服务基本架构，我们先完成如下几个步骤：
 
@@ -21,4 +21,4 @@
 
 https://learning.snssdk.com/feoffline/toutiao_wallet_bundles/toutiao_learning_wap/online/album_detail.html?content_id=6739301223356170507
 
-![](C:\Users\Rickie\AppData\Local\Microsoft\Windows\INetCache\IE\HXILK73G\《Elasticsearch%207.x订单中心实战》专栏海报2[1].png)
+![](https://raw.githubusercontent.com/rickiechina/elasticsearch-order/master/images/%E3%80%8AElasticsearch%207.x%E8%AE%A2%E5%8D%95%E4%B8%AD%E5%BF%83%E5%AE%9E%E6%88%98%E3%80%8B%E4%B8%93%E6%A0%8F%E6%B5%B7%E6%8A%A52.png)
