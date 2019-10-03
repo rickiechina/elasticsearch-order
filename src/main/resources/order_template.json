@@ -1,0 +1,34 @@
+{
+  "index_patterns": "order_*",
+  "aliases": {
+    "order": {}
+  },
+  "settings":{
+    "refresh_interval": "5s",
+    "number_of_shards": 1,
+    "number_of_replicas": 0
+  },
+  "mappings": {
+    "properties": {
+      "orderid": {
+        "type": "long"
+      },
+      "sender_name": {
+        "type": "keyword"
+      },
+      "sender_addr": {
+        "type": "keyword"
+      },
+      "sender_mobile": {
+        "type": "keyword"
+      },
+      "create_time": {
+        "type": "date",
+        "format": "yyyy-MM-dd HH:mm:ss||yyyy-MM-dd'T'HH:mm:ss.SSSZ"
+      },
+      "memo": {
+        "type": "keyword"
+      }
+    }
+  }
+}
