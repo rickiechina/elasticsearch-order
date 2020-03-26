@@ -21,4 +21,3 @@
 
 https://learning.snssdk.com/feoffline/toutiao_wallet_bundles/toutiao_learning_wap/online/album_detail.html?content_id=6739301223356170507
 
-![](https://raw.githubusercontent.com/rickiechina/elasticsearch-order/master/images/%E3%80%8AElasticsearch%207.x%E8%AE%A2%E5%8D%95%E4%B8%AD%E5%BF%83%E5%AE%9E%E6%88%98%E3%80%8B%E4%B8%93%E6%A0%8F%E6%B5%B7%E6%8A%A52.png)
